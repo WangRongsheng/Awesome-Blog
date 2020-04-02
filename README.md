@@ -35,14 +35,14 @@
 
 | 微信  | 支付宝  | QQ  |
 | ------------ | ------------ | ------------ |
-| [微信](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/weixin.png)  | [支付宝](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/zhifubao.png)  | [QQ](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/qq.png)  |
+| ![微信](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/weixin.png)  | ![支付宝](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/zhifubao.png)  | ![QQ](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/qq.png)  |
 
 
 
 ### 2、贡献列表
 
-| 金额  | 资助人  |
-| :------------ | ------------: |
-|  - | -  |
+| 金额  | 资助人  | 资助人博客 |
+| :- | :- |:-|
+|  - | -  |-|
 
 
