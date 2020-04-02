@@ -7,7 +7,7 @@
 > :red_circle:博客提交要求：
 > 1. 可以【单方面】（不获得博客持有人许可）提交博客；
 > 2. 提交博客必须为【个人自建博客】，不支持【CSDN、博客园等】其他第三方博客；
-> 3. 参与项目请提交【[Issues](https://github.com/WangRongsheng/Awesome-Blog/issues)】、【[Pull Requests](https://github.com/WangRongsheng/Awesome-Blog/pulls)】、【<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1ec99e8f1416d60c33ec03a7e85da9528b0541315d42eb550ec95c65877521a2"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="会敲代码的铁锤妹妹" title="会敲代码的铁锤妹妹"></a>】、【邮箱603329354@qq.com】；
+> 3. 参与项目请提交【[Issues](https://github.com/WangRongsheng/Awesome-Blog/issues)】、【[Pull Requests](https://github.com/WangRongsheng/Awesome-Blog/pulls)】、【<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1ec99e8f1416d60c33ec03a7e85da9528b0541315d42eb550ec95c65877521a2">QQ群</a>】、【邮箱603329354@qq.com】；
 
 ## 二、博客
 
