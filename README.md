@@ -32,5 +32,5 @@
 |博客名称|博客地址|博客框架|所在年级|
 |:-|:-|:-|:-|
 | 王荣胜 | [点击直达](https://sqdxwz.top)| Gridea| 2018|
-
+| Uncle_drew | [点击直达](https://cndrew.cn)| Hexo| 2018|
 
