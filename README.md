@@ -9,8 +9,9 @@
 > :red_circle:博客提交要求：
 > 1. 可以【单方面】（不获得博客持有人许可）提交博客；
 > 2. 提交博客必须为【个人自建博客】，不支持【CSDN、博客园等】其他第三方博客；
-  > 注：在是真大佬情况下，仍可以提交第三方博客！
 > 3. 参与项目请提交【[Issues](https://github.com/WangRongsheng/Awesome-Blog/issues)】、【[Pull Requests](https://github.com/WangRongsheng/Awesome-Blog/pulls)】、【<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1ec99e8f1416d60c33ec03a7e85da9528b0541315d42eb550ec95c65877521a2">QQ群</a>】、【邮箱603329354@qq.com】；
+
+当然对于第2条要求不属于硬性要求，只要是【真】大佬，仍然可以上墙！
 
 ## 二、博客
 
