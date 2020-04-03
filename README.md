@@ -1,8 +1,8 @@
-<center><img src="https://s1.ax1x.com/2020/04/02/GtiMTg.png" alt="GtiMTg.png" border="0" /></center>
+<center><img src="https://s1.ax1x.com/2020/04/02/GtiMTg.png" alt="We are family" border="0" /></center>
 
 ## 一、关于
 
-一个集结优秀与高颜值博客的项目:shipit:
+一个集结优秀与高颜值博客的项目
 
 本项目分类为：`技术博客`、`颜值博客`、`高校学生博客(仅限【HPU】)` 。
 
