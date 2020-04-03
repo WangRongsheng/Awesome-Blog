@@ -34,4 +34,5 @@
 | 王荣胜 | [点击直达](https://sqdxwz.top)| Gridea| 2018|
 | Uncle_drew | [点击直达](https://cndrew.cn)| Hexo| 2018|
 | 杨志 | [点击直达](https://hpu-yz.github.io/)| Hexo| 2018|
+| 宁辉 | [点击直达](https://angelni.github.io/)| Hexo| 2018|
 
