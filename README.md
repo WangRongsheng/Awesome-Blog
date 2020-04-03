@@ -15,36 +15,20 @@
 
 ### 1、技术博客
 
-|博客名称|博客地址|博客类型|
+|博客名称|博客地址|博客框架|
 |:-|:-|:-|
 | | | |
 
 ### 2、颜值博客
 
-|博客名称|博客地址|博客类型|
+|博客名称|博客地址|博客框架|
 |:-|:-|:-|
 | | | |
 
 ### 3、高校学生博客
 
-|博客名称|博客地址|博客类型|所在年级|
+|博客名称|博客地址|博客框架|所在年级|
 |:-|:-|:-|:-|
-| | | | |
-
-## 三、赞助
-
-### 1、捐助我们
-
-| 微信  | 支付宝  | QQ  |
-| ------------ | ------------ | ------------ |
-| ![微信](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/weixin.png)  | ![支付宝](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/zhifubao.png)  | ![QQ](https://github.com/WangRongsheng/Awesome-Blog/blob/master/imgs/qq.png)  |
-
-
-
-### 2、贡献列表
-
-| 金额  | 资助人  | 资助人博客 |
-| :- | :- |:-|
-|  - | -  |-|
+| 王荣胜 | [王荣胜](https://sqdxwz.top)| Gridea| 2018|
 
 
