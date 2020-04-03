@@ -37,9 +37,7 @@
 
 | 微信  | 支付宝  | QQ  |
 | ------------ | ------------ | ------------ |
-| <img src="https://s2.ax1x.com/2019/12/26/lEFGef.png" alt="lEFGef.png" border="0" />  | <img src="https://s2.ax1x.com/2019/12/26/lEFQSA.png" alt="lEFQSA.png" border="0" />  | <img src="https://s2.ax1x.com/2019/12/26/lEFgkF.png" alt="lEFgkF.png" border="0" />  |
-
-
+| <img src="https://s1.ax1x.com/2020/04/03/GN6vAs.png" alt="qq" border="0">  | <img src="https://s1.ax1x.com/2020/04/03/GN6X7j.png" alt="zfb" border="0">  | <img src="https://s1.ax1x.com/2020/04/03/GN6OBQ.png" alt="wx" border="0">  |
 
 ### 2、贡献列表
 
