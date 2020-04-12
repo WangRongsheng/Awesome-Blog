@@ -21,12 +21,34 @@
 |:-|:-|:-|
 | 浅笑の博客 | [点击直达](https://blog.zhengyujie.cn/) | 自制 |
 | 标点符 | [点击直达](https://www.biaodianfu.com/) | Wordpress |
+| 祭华 | [点击直达](https://www.jdeal.cn/) | Typecho |
+| 菜鸟江湖 | [点击直达](https://www.zeekling.cn/) | 博客园 |
+| 缓归 | [点击直达](https://haybin.cn/) | Typecho |
+| 月小水长 | [点击直达](https://inspurer.github.io/) | Hexo |
+| 三无计划 | [点击直达](https://blog.imalan.cn/) | Typecho |
+| 哄卫 | [点击直达](https://sunhwee.com/) | Hexo |
+| 村雨遥 | [点击直达](https://cunyu1943.github.io/) | Hexo |
+| 蓝天上的云 | [点击直达](https://www.cnblogs.com/yucloud/) | 博客园 |
+| itxia | [点击直达](https://itxia.github.io/) | Hexo |
+| 张亚东 | [点击直达](https://www.zhyd.me/) | Oneblog |
+| 刘悦 | [点击直达](https://v3u.cn/) | 自制 |
+| Evan | [点击直达](https://xugaoyi.com/) | Vuepress |
+| 慕若曦 | [点击直达](https://www.muruoxi.com/) | 自制 |
 
 ### 2、颜值博客
 
 |博客名称|博客地址|博客框架|
 |:-|:-|:-|
-| | | |
+| 张天昀 | [点击直达](https://doowzs.com/) | Hugo |
+| 老狮的梦 | [点击直达](https://laolion.com/blog/) | Typecho |
+| 苍术 | [点击直达](http://www.iiros.com/) | Typecho |
+| 漫漫长路 | [点击直达](https://mmcl.net/) | Typecho |
+| 云游君 | [点击直达](https://www.yunyoujun.cn/) | Typecho |
+| I am i | [点击直达](https://5ime.cn/) | Hexo |
+| MAYUKO.CN | [点击直达](https://mayuko.cn/) | Typecho |
+| 孤斗 | [点击直达](http://d-d.design/) | 自制 |
+| Evan and Sigrid | [点击直达](https://lywly.cn/) | Typecho |
+| 是叶十三 | [点击直达](http://www.yerenping.cn/) | 自制 |
 
 ### 3、高校学生博客
 
