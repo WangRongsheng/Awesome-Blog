@@ -20,6 +20,7 @@
 |博客名称|博客地址|博客框架|
 |:-|:-|:-|
 | 浅笑の博客 | [点击直达](https://blog.zhengyujie.cn/) | 自制 |
+| 标点符 | [点击直达](https://www.biaodianfu.com/) | Wordpress |
 
 ### 2、颜值博客
 
