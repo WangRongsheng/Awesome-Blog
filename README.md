@@ -15,6 +15,8 @@
 
 ## 二、博客
 
+> 博客不标明框架的一律为**自制** ！
+
 ### 1、技术博客
 
 |博客名称|博客地址|博客框架|
@@ -34,6 +36,11 @@
 | 刘悦 | [点击直达](https://v3u.cn/) | 自制 |
 | Evan | [点击直达](https://xugaoyi.com/) | Vuepress |
 | 慕若曦 | [点击直达](https://www.muruoxi.com/) | 自制 |
+| JustSong | [点击直达](https://iamazing.cn/) | 自制 |
+| 无垠 | [点击直达](https://flyhigher.top/) | 自制 |
+| 珠峰上吹泡泡 | [点击直达](https://www.cnblogs.com/Terrypython/) | 博客园 |
+| 阮一峰 | [点击直达](http://www.ruanyifeng.com/blog/) | 自制 |
+| 轻刻年轮 | [点击直达](https://www.ly522.com/) | 自制 |
 
 ### 2、颜值博客
 
@@ -49,13 +56,21 @@
 | 孤斗 | [点击直达](http://d-d.design/) | 自制 |
 | Evan and Sigrid | [点击直达](https://lywly.cn/) | Typecho |
 | 是叶十三 | [点击直达](http://www.yerenping.cn/) | 自制 |
+| Yamdr | [点击直达](https://www.yamdr.cn/) | 自制 |
 
 ### 3、高校学生博客
 
 |博客名称|博客地址|博客框架|所在年级|
 |:-|:-|:-|:-|
 | 王荣胜 | [点击直达](https://sqdxwz.top)| Gridea| 2018|
-| Uncle_drew | [点击直达](https://cndrew.cn)| Hexo| 2018|
+| 吴怡龙 | [点击直达](https://cndrew.cn)| Hexo| 2018|
 | 杨志 | [点击直达](https://hpu-yz.github.io/)| Hexo| 2018|
 | 宁辉 | [点击直达](https://angelni.github.io/)| Hexo| 2018|
-
+| 顾尧 | [点击直达](https://dyingdown.github.io/) | Hexo | 2018 |
+| 侯一鸣 | [点击直达](https://houyiming99.github.io/) | Hexo | 2018 |
+| 张海洋 | [点击直达](https://blogzhy.cn/) | Hexo | 2018 |
+| 郭永航 | [点击直达](https://blog.todest.cn/) | Hexo | 2017 |
+| 付志远 | [点击直达](https://fuzhiyuan.github.io/) | Hexo | 2017 |
+| 闫志鹏 | [点击直达](https://cdreamer.cn/) | Hexo | 2018 |
+| 赵猛 | [点击直达](https://hpumengzhao.github.io/) | Hexo | 2017 |
+| 谭仕钦 | [点击直达](https://chuckietan.github.io/) | Hexo | 2018 |
