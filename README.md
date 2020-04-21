@@ -41,6 +41,10 @@
 | 珠峰上吹泡泡 | [点击直达](https://www.cnblogs.com/Terrypython/) | 博客园 |
 | 阮一峰 | [点击直达](http://www.ruanyifeng.com/blog/) | 自制 |
 | 轻刻年轮 | [点击直达](https://www.ly522.com/) | 自制 |
+| 宇宙よりも遠い場所 | [点击直达](https://kirainmoe.com/) | Hugo |
+| 一系三止 | [点击直达](https://www.yoxiha.com/) | 自制 |
+| Xu's Blog | [点击直达](https://hasaik.com/) | Hexo |
+| Debug客栈 | [点击直达](https://www.debuginn.cn/) | 自制 |
 
 ### 2、颜值博客
 
@@ -57,6 +61,7 @@
 | Evan and Sigrid | [点击直达](https://lywly.cn/) | Typecho |
 | 是叶十三 | [点击直达](http://www.yerenping.cn/) | 自制 |
 | Yamdr | [点击直达](https://www.yamdr.cn/) | 自制 |
+| lookroot | [点击直达](https://www.lookroot.cn/) | Vuepress |
 
 ### 3、高校学生博客
 
