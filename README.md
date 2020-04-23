@@ -45,6 +45,12 @@
 | 一系三止 | [点击直达](https://www.yoxiha.com/) | 自制 |
 | Xu's Blog | [点击直达](https://hasaik.com/) | Hexo |
 | Debug客栈 | [点击直达](https://www.debuginn.cn/) | 自制 |
+| 顾盼の记事本 | [点击直达](https://gupan.site/) | Typecho |
+| 地皮小木屋 | [点击直达](https://dpii.club/) | Wordpress |
+| 音速装机 | [点击直达](https://sonic.volf.club/) | Typecho |
+| Rat‘s Blog | [点击直达](https://www.moerats.com/) | Typecho |
+| qmyc1999 | [点击直达](https://www.cnblogs.com/czc1999/) | 博客园 |
+| 毛若晰 | [点击直达](https://www.maorx.cn/) | 自制 |
 
 ### 2、颜值博客
 
@@ -62,6 +68,7 @@
 | 是叶十三 | [点击直达](http://www.yerenping.cn/) | 自制 |
 | Yamdr | [点击直达](https://www.yamdr.cn/) | 自制 |
 | lookroot | [点击直达](https://www.lookroot.cn/) | Vuepress |
+| 静静的小窝 | [点击直达](https://wznmickey.com/) | Hexo |
 
 ### 3、高校学生博客
 
@@ -79,3 +86,4 @@
 | 闫志鹏 | [点击直达](https://cdreamer.cn/) | Hexo | 2018 |
 | 赵猛 | [点击直达](https://hpumengzhao.github.io/) | Hexo | 2017 |
 | 谭仕钦 | [点击直达](https://chuckietan.github.io/) | Hexo | 2018 |
+| 张蓬勃 | [点击直达](https://www.laugh12321.cn/) | Hexo | 2017 |
