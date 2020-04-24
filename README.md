@@ -51,6 +51,9 @@
 | Rat‘s Blog | [点击直达](https://www.moerats.com/) | Typecho |
 | qmyc1999 | [点击直达](https://www.cnblogs.com/czc1999/) | 博客园 |
 | 毛若晰 | [点击直达](https://www.maorx.cn/) | 自制 |
+| 大专栏 | [点击直达](https://www.dazhuanlan.com/) | Hexo |
+| HuanHao | [点击直达](https://www.cnblogs.com/huanhao/) | 博客园 |
+| wyf | [点击直达](https://www.cnblogs.com/weiyinfu/) | 博客园 |
 
 ### 2、颜值博客
 
@@ -69,6 +72,9 @@
 | Yamdr | [点击直达](https://www.yamdr.cn/) | 自制 |
 | lookroot | [点击直达](https://www.lookroot.cn/) | Vuepress |
 | 静静的小窝 | [点击直达](https://wznmickey.com/) | Hexo |
+| Eltrac's Word | [点击直达](https://www.eltrac.cn/) | 自制 |
+| 心 耒 | [点击直达](https://ajian.online/) | Typecho |
+| 小凡梦 | [点击直达](https://www.xiaofm.cn/) | Typecho |
 
 ### 3、高校学生博客
 
