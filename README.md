@@ -54,6 +54,24 @@
 | 大专栏 | [点击直达](https://www.dazhuanlan.com/) | Hexo |
 | HuanHao | [点击直达](https://www.cnblogs.com/huanhao/) | 博客园 |
 | wyf | [点击直达](https://www.cnblogs.com/weiyinfu/) | 博客园 |
+| 木牛马 | [点击直达](https://www.cnblogs.com/ydcode/) | 博客园 |
+| Hi-young | [点击直达](https://www.cnblogs.com/hiyoung/) | 博客园 |
+| 罗周杨 | [点击直达](https://luozhouyang.github.io/) | 自制 |
+| 朱超超 | [点击直达](https://www.cnblogs.com/USTC-ZCC/) | 博客园 |
+| 白婷 | [点击直达](https://www.cnblogs.com/baiting/) | 博客园 |
+| 西多士NLP | [点击直达](https://www.cnblogs.com/sandwichnlp/) | 博客园 |
+| JOE | [点击直达](https://terrifyzhao.github.io/) | Hexo |
+| 钱爽 | [点击直达](https://qianshuang.github.io/) | Hexo |
+| 相依 | [点击直达](https://jepsonwong.github.io/) | 自制 |
+| EO_Admin | [点击直达](https://www.cnblogs.com/geo-will/) | 博客园 |
+| 泰初 | [点击直达](https://www.cnblogs.com/lsm-boke/) | 博客园 |
+| Harvard | [点击直达](https://www.cnblogs.com/FG123/) | 博客园 |
+| Rethink | [点击直达](http://www.rethink.fun/) | Wordpress |
+| fly63前端网 | [点击直达](http://www.fly63.com/) | 自制 |
+| Busyboxs | [点击直达](https://yangshun.win/) | Hexo |
+| 炎忍 | [点击直达](https://blog.endureblaze.cn/) | Hexo |
+| Woojay | [点击直达](https://blog.blankshell.com/) | 自制 |
+| Alex Yu | [点击直达](https://www.cnblogs.com/biaoyu/) | 博客园 |
 
 ### 2、颜值博客
 
