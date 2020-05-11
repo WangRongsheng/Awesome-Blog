@@ -72,6 +72,11 @@
 | 炎忍 | [点击直达](https://blog.endureblaze.cn/) | Hexo |
 | Woojay | [点击直达](https://blog.blankshell.com/) | 自制 |
 | Alex Yu | [点击直达](https://www.cnblogs.com/biaoyu/) | 博客园 |
+| 人参地理的地瓜 | [点击直达](http://www.l-zhe.com/) | Hexo |
+| hojun | [点击直达](https://www.hojun.cn/) | Hexo |
+| Image Studio | [点击直达](http://www.p-chao.com/) | 自制 |
+| HCLonely Blog | [点击直达](https://blog.hclonely.com/) | Hexo |
+| 海燕 | [点击直达](https://www.cnblogs.com/haiyan123/) | 博客园 |
 
 ### 2、颜值博客
 
@@ -93,6 +98,9 @@
 | Eltrac's Word | [点击直达](https://www.eltrac.cn/) | 自制 |
 | 心 耒 | [点击直达](https://ajian.online/) | Typecho |
 | 小凡梦 | [点击直达](https://www.xiaofm.cn/) | Typecho |
+| Niko Yu | [点击直达](https://nikoyu.asia/) | Hexo |
+| Mohen's blog | [点击直达](https://mcmohen.com/) | Hexo |
+| TRHX'S Blog | [点击直达](https://www.itrhx.com/) | Hexo |
 
 ### 3、高校学生博客
 
