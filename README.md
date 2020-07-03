@@ -77,6 +77,8 @@
 | Image Studio | [点击直达](http://www.p-chao.com/) | 自制 |
 | HCLonely Blog | [点击直达](https://blog.hclonely.com/) | Hexo |
 | 海燕 | [点击直达](https://www.cnblogs.com/haiyan123/) | 博客园 |
+| 肥柴之家 | [点击直达](https://www.cnzknet.com/) | typecho |
+| The Palace | [点击直达](https://seiryu.cn/) | Wordpress |
 
 ### 2、颜值博客
 
@@ -101,6 +103,9 @@
 | Niko Yu | [点击直达](https://nikoyu.asia/) | Hexo |
 | Mohen's blog | [点击直达](https://mcmohen.com/) | Hexo |
 | TRHX'S Blog | [点击直达](https://www.itrhx.com/) | Hexo |
+| 银河里泛摘天星 | [点击直达](https://www.tabirstrees.top/) | Hexo |
+| hushhw | [点击直达](https://blog.hushhw.cn/) | Typecho |
+| 小小咸鱼 | [点击直达](https://www.cnblogs.com/pythonywy/) | 博客园 |
 
 ### 3、高校学生博客
 
@@ -119,3 +124,4 @@
 | 赵猛 | [点击直达](https://hpumengzhao.github.io/) | Hexo | 2017 |
 | 谭仕钦 | [点击直达](https://chuckietan.github.io/) | Hexo | 2018 |
 | 张蓬勃 | [点击直达](https://www.laugh12321.cn/) | Hexo | 2017 |
+| 孟庆国 | [点击直达](https://www.cnblogs.com/xxmmqg/) | 博客园 | 2018 |
