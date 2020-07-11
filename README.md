@@ -79,6 +79,7 @@
 | 海燕 | [点击直达](https://www.cnblogs.com/haiyan123/) | 博客园 |
 | 肥柴之家 | [点击直达](https://www.cnzknet.com/) | typecho |
 | The Palace | [点击直达](https://seiryu.cn/) | Wordpress |
+| peacepeacepeace | [点击直达](https://www.cnblogs.com/peacepeacepeace/) | 博客园 |
 
 ### 2、颜值博客
 
