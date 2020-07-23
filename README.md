@@ -80,6 +80,8 @@
 | 肥柴之家 | [点击直达](https://www.cnzknet.com/) | typecho |
 | The Palace | [点击直达](https://seiryu.cn/) | Wordpress |
 | peacepeacepeace | [点击直达](https://www.cnblogs.com/peacepeacepeace/) | 博客园 |
+| Bravey | [点击直达](https://bravey.github.io/) | Hexo |
+| 炼金术士 | [点击直达](http://www.cxuy.cn/) | 自制 |
 
 ### 2、颜值博客
 
