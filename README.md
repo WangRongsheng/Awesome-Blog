@@ -83,6 +83,8 @@
 | Bravey | [点击直达](https://bravey.github.io/) | Hexo |
 | 炼金术士 | [点击直达](http://www.cxuy.cn/) | 自制 |
 | ShuWoom | [点击直达](https://shuwoom.com/) | Wordpress |
+| Ebby Notes | [点击直达](http://www.a-stack.com/) | Hexo |
+| 大专栏 | [点击直达](https://www.dazhuanlan.com/) | Hexo |
 
 ### 2、颜值博客
 
