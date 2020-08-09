@@ -85,6 +85,9 @@
 | ShuWoom | [点击直达](https://shuwoom.com/) | Wordpress |
 | Ebby Notes | [点击直达](http://www.a-stack.com/) | Hexo |
 | 大专栏 | [点击直达](https://www.dazhuanlan.com/) | Hexo |
+| 树莓派实验室 | [点击直达](https://shumeipai.nxez.com/) | 自制 |
+| Matt Might  | [点击直达](http://matt.might.net/) | 自制 |
+
 
 ### 2、颜值博客
 
