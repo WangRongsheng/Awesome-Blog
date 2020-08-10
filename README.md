@@ -87,6 +87,7 @@
 | 大专栏 | [点击直达](https://www.dazhuanlan.com/) | Hexo |
 | 树莓派实验室 | [点击直达](https://shumeipai.nxez.com/) | 自制 |
 | Matt Might  | [点击直达](http://matt.might.net/) | 自制 |
+| 服务猿's 学习笔记 | [点击直达](https://www.ishells.cn/) | Halo |
 
 
 ### 2、颜值博客
@@ -115,6 +116,7 @@
 | 银河里泛摘天星 | [点击直达](https://www.tabirstrees.top/) | Hexo |
 | hushhw | [点击直达](https://blog.hushhw.cn/) | Typecho |
 | 小小咸鱼 | [点击直达](https://www.cnblogs.com/pythonywy/) | 博客园 |
+| 挨拍的儿 | [点击直达](https://jimmyqin.cn/) | Hexo |
 
 ### 3、高校学生博客
 
