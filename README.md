@@ -8,7 +8,7 @@
 
 > :red_circle:博客提交要求：
 > 1. 可以【单方面】（不获得博客持有人许可）提交博客；
-> 2. 提交博客必须为【个人自建博客】，不支持【CSDN、博客园等】其他第三方博客；
+> 2. 提交博客必须为【个人自建博客】，支持【CSDN、博客园等】其他第三方博客；
 > 3. 参与项目请提交【[Issues](https://github.com/WangRongsheng/Awesome-Blog/issues)】、【[Pull Requests](https://github.com/WangRongsheng/Awesome-Blog/pulls)】、【<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1ec99e8f1416d60c33ec03a7e85da9528b0541315d42eb550ec95c65877521a2">QQ群</a>】、【邮箱603329354@qq.com】；
 
 当然对于第2条要求不属于硬性要求，只要是【真】大佬，仍然可以上墙！
@@ -88,6 +88,13 @@
 | 树莓派实验室 | [点击直达](https://shumeipai.nxez.com/) | 自制 |
 | Matt Might  | [点击直达](http://matt.might.net/) | 自制 |
 | 服务猿's 学习笔记 | [点击直达](https://www.ishells.cn/) | Halo |
+| Just Do it | [点击直达](https://rocskyfly.github.io/) | Hexo |
+| 奇乐网 | [点击直达](https://76wp.cn/) | Typecho |
+| 余生's Blog | [点击直达](https://blog.hidove.cn/) | Typecho |
+| 邯城往事  | [点击直达](https://www.cjzshilong.cn/) | Halo |
+| LiuYun的博客 | [点击直达](https://blog.6yfz.cn/) | Hexo |
+| marsggbo | [点击直达](https://www.cnblogs.com/marsggbo/) | 博客园 |
+
 
 
 ### 2、颜值博客
@@ -117,6 +124,8 @@
 | hushhw | [点击直达](https://blog.hushhw.cn/) | Typecho |
 | 小小咸鱼 | [点击直达](https://www.cnblogs.com/pythonywy/) | 博客园 |
 | 挨拍的儿 | [点击直达](https://jimmyqin.cn/) | Hexo |
+| Azusemisa's blog  | [点击直达](https://azusemisa.top/) | Hexo |
+| 小太的游乐园 | [点击直达](https://713.moe/) | 自制 |
 
 ### 3、高校学生博客
 
@@ -136,3 +145,5 @@
 | 谭仕钦 | [点击直达](https://chuckietan.github.io/) | Hexo | 2018 |
 | 张蓬勃 | [点击直达](https://www.laugh12321.cn/) | Hexo | 2017 |
 | 孟庆国 | [点击直达](https://www.cnblogs.com/xxmmqg/) | 博客园 | 2018 |
+| 曹振林 | [点击直达](https://blog.csdn.net/mumuhaoshuai) | CSDN | 2018 |
+| 杨鹏伟 | [点击直达](https://blog.csdn.net/qq_45585519) | CSDN | 2018 |
