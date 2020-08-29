@@ -94,6 +94,9 @@
 | 邯城往事  | [点击直达](https://www.cjzshilong.cn/) | Halo |
 | LiuYun的博客 | [点击直达](https://blog.6yfz.cn/) | Hexo |
 | marsggbo | [点击直达](https://www.cnblogs.com/marsggbo/) | 博客园 |
+| Fantasy博客  | [点击直达](https://blog.tigerxly.com/) | 自制 |
+| chenxiangzhen | [点击直达](https://www.cnblogs.com/chenxiangzhen/) | 博客园 |
+
 
 
 
@@ -126,6 +129,7 @@
 | 挨拍的儿 | [点击直达](https://jimmyqin.cn/) | Hexo |
 | Azusemisa's blog  | [点击直达](https://azusemisa.top/) | Hexo |
 | 小太的游乐园 | [点击直达](https://713.moe/) | 自制 |
+| 李鹏坤 | [点击直达](https://lipk.org/) | 自制 |
 
 ### 3、高校学生博客
 
