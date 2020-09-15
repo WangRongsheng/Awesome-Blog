@@ -96,8 +96,9 @@
 | marsggbo | [点击直达](https://www.cnblogs.com/marsggbo/) | 博客园 |
 | Fantasy博客  | [点击直达](https://blog.tigerxly.com/) | 自制 |
 | chenxiangzhen | [点击直达](https://www.cnblogs.com/chenxiangzhen/) | 博客园 |
-
-
+| 创客出手 | [点击直达](https://makeronsite.com/) | 自制 |
+| python进阶者 | [点击直达](https://my.oschina.net/u/4521128?q=python) | 开源中国 |
+| MHuiG  | [点击直达](https://blog.mhuig.top/) | Hexo |
 
 
 ### 2、颜值博客
