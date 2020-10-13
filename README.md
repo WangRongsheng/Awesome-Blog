@@ -131,6 +131,9 @@
 | Azusemisa's blog  | [点击直达](https://azusemisa.top/) | Hexo |
 | 小太的游乐园 | [点击直达](https://713.moe/) | 自制 |
 | 李鹏坤 | [点击直达](https://lipk.org/) | 自制 |
+| QWQAQ | [点击直达](https://qwqaq.com/) | Hexo |
+| 霂森西 | [点击直达](https://dlizi.com/) | Typecho |
+| 猫鼬 | [点击直达](https://blog.catyo.cn/) | Typecho |
 
 ### 3、高校学生博客
 
