@@ -99,7 +99,7 @@
 | 创客出手 | [点击直达](https://makeronsite.com/) | 自制 |
 | python进阶者 | [点击直达](https://my.oschina.net/u/4521128?q=python) | 开源中国 |
 | MHuiG  | [点击直达](https://blog.mhuig.top/) | Hexo |
-
+| 标点符  | [点击直达](https://www.biaodianfu.com/) | 自制 |
 
 ### 2、颜值博客
 
