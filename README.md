@@ -134,6 +134,7 @@
 | QWQAQ | [点击直达](https://qwqaq.com/) | Hexo |
 | 霂森西 | [点击直达](https://dlizi.com/) | Typecho |
 | 猫鼬 | [点击直达](https://blog.catyo.cn/) | Typecho |
+| Dweb工作室 | [点击直达](https://www.dweb.club/) | 自制 |
 
 ### 3、高校学生博客
 
