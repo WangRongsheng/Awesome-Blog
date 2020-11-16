@@ -100,6 +100,9 @@
 | python进阶者 | [点击直达](https://my.oschina.net/u/4521128?q=python) | 开源中国 |
 | MHuiG  | [点击直达](https://blog.mhuig.top/) | Hexo |
 | 标点符  | [点击直达](https://www.biaodianfu.com/) | 自制 |
+| Bing | [点击直达](https://bingxiong.vip/) | 自制 |
+| Penguin | [点击直达](https://www.polarxiong.com/) | Typecho |
+| 迷途小书童  | [点击直达](https://xugaoxiang.com/) | 自制 |
 
 ### 2、颜值博客
 
