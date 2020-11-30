@@ -105,6 +105,7 @@
 | 迷途小书童  | [点击直达](https://xugaoxiang.com/) | 自制 |
 | 碎了的冰 | [点击直达](https://www.cnblogs.com/lightice/) | 博客园 |
 | GaoLei's Blog  | [点击直达](https://gaolei786.github.io/) | Hexo |
+| 鱼C工作室 | [点击直达](https://ilovefishc.com/) | 自制 |
 
 ### 2、颜值博客
 
