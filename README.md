@@ -106,7 +106,8 @@
 | 碎了的冰 | [点击直达](https://www.cnblogs.com/lightice/) | 博客园 |
 | GaoLei's Blog  | [点击直达](https://gaolei786.github.io/) | Hexo |
 | 鱼C工作室 | [点击直达](https://ilovefishc.com/) | 自制 |
-| Twisted's Blog| [点击直达](http://www.twistedwg.com/) | 自制 |
+| Twisted's Blog | [点击直达](http://www.twistedwg.com/) | 自制 |
+| pytorch中文网 | [点击直达](https://www.pytorchtutorial.com/) | 自制 |
 
 ### 2、颜值博客
 
